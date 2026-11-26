@@ -1,9 +1,2 @@
 ; Month Calendar events. Format: YYYY-MM-DD=Event one|Event two
 ; Add a time after the title (AoA 09:30 or Lab 2pm). Start with ! for an important event (! COA).
-2026-10-27=AoA
-2026-10-29=FSJP
-2026-10-30=COA
-2026-11-25=! COA EXAM 14:00
-2026-11-26=test
-2026-12-05=! DevFest 06:00
-2026-11-23=test 14:00
