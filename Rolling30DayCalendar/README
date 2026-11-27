@@ -1,3 +1,5 @@
+Setup Guide:
+
 STEP 1: Open Rainmeter folder in your File Explorer
 STEP 2: Open Skins folder 
 STEP 3: Create A New Folder named Rolling30DayCalendar
@@ -6,10 +8,17 @@ STEP 5: Copy @Resourses Folder and MiniCalendar.ini File
 STEP 5: Paste Them in the Folder created in Skins folder
 STEP 7: Open Rainmeter from taskbar where this icon is there  " ^ "
 STEP 8: Click Refresh and then Double Click the MiniCalendar.ini file to get this Skin in your Desktop
+_________________________________________________________________________________________________________
 
+How to Use Guide 
 
+1. Click on a Date
+2. Click on the Panel below the Calendar
+3. Type any event, Example (Any Meeting) and then ENTER
+4. If you need to set time for that event type, Example (Any Event @15:30)
+5. If you need more then one Event use '|' for in between two events
 The Mini Calendar.png looks Purple but it depends on your Desktop Background as the Calender is Translucent
-
+_________________________________________________________________________________________________________
 ThankYou
 
 Created by: Khan Sharib Kausar
